@@ -1,0 +1,1 @@
+This is Alta's first git project
